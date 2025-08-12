@@ -1,44 +1,40 @@
+# 📈 Marketing Analytics Project – Y.Afisha Case Study
 
-# Marketing Analytics Project: Optimization of Marketing Expenses
+## 📌 Project Overview
+This project focuses on **marketing campaign performance analysis** for Y.Afisha, aiming to **optimize ad spend** and improve **customer acquisition strategies**.  
+The analysis evaluates user behavior, purchasing patterns, and the effectiveness of various marketing channels.
 
-## Introduction:
+## 🗂 Dataset
+The dataset contains:
+- **Visits Log** – User sessions (UID, device, session start/end time, source ID).
+- **Orders Log** – Purchases with revenue.
+- **Marketing Costs** – Daily spend per acquisition channel.
 
-This project involves analyzing server logs containing data on website visits, order records, and marketing expenditures from January 2017 to December 2018. The insights derived from the analysis will guide recommendations on how to allocate marketing budgets effectively.
+## 🛠 Tools & Technologies
+- **Python** (Pandas, Matplotlib, Seaborn)
+- **SQL** for querying
+- **Jupyter Notebook**
 
----
+## 🔍 Analysis & Key Questions
+- How many users visit daily, weekly, monthly?
+- What’s the **conversion time** from registration to first purchase?
+- Which marketing channels bring the **highest ROI**?
+- What’s the **Customer Acquisition Cost (CAC)** per channel?
+- What’s the **Lifetime Value (LTV)** of customers by channel?
+- Calculate **Return on Marketing Investment (ROMI)**.
 
-## Objectives:
+## 📊 Key Insights
+- Certain channels deliver **higher LTV with lower CAC**.
+- Early conversions (within first 3 days) show higher retention.
+- Device type influences engagement and purchase patterns.
 
-* Prepare and preprocess the data for analysis.
-* Generate reports and calculate key metrics related to visits, sales, and marketing.
-* Visualize metrics to understand patterns and trends over time and across different marketing channels.
-* Provide actionable recommendations to marketing experts based on the analysis.
+## 📎 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MirthaT/Marketing-Analytics-Project.git
+2. Open the .ipynb file in Jupyter Notebook.
 
----
+3. Follow the analysis sections to reproduce results.
 
-## Project Execution:
-
-* Data Preparation: Downloaded and stored visit logs, order records, and marketing expenses data. Preprocessed the data to ensure consistency and correctness.
-* Metric Calculation: Calculated various metrics such as daily/weekly/monthly visits, session duration, conversion rates, average order size, and ROMI.
-* Visualization: Generated visualizations, including time series plots and bar charts, to illustrate key metrics and trends.
-* Recommendations: Based on the analysis, provided recommendations on marketing channel allocation, budget optimization, and campaign effectiveness.
-* Conclusion: Summarized findings, highlighted key insights, and outlined actionable recommendations for marketing optimization.
-
----
-
-## Technologies Used:
-
-* Python: Utilized for data manipulation, analysis, and visualization.
-* Pandas: Used for data preprocessing and manipulation.
-* Matplotlib and Seaborn: Employed for data visualization.
-* Jupyter Notebook: Used as the development environment for the project.
-
----
-
-## Skills Demonstrated:
-
-* Data Preprocessing: Cleaned and prepared raw data for analysis, ensuring data integrity and consistency.
-* Data Analysis: Calculated key performance indicators (KPIs) such as daily, weekly, and monthly website visits, conversion rates, and customer lifetime value (LTV).
-* Data Visualization: Created visualizations to illustrate trends and patterns in visitation, sales, and marketing metrics.
-* Statistical Analysis: Analyzed cohort behavior to understand customer acquisition, purchasing patterns, and return on marketing investment (ROMI).
-* Business Insights: Provided actionable recommendations to marketing experts based on data-driven insights.
+📬 Contact
+Let’s connect on LinkedIn or email mtorresca@gmail.com.
