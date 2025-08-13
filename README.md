@@ -1,5 +1,6 @@
 # 📈 Marketing Analytics Project – Y.Afisha Case Study
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MirthaT/Marketing-Analytics-Project/blob/main/Marketing_Analytics_Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/MirthaT/Marketing-Analytics-Project/blob/main/Notebooks/Marketing_Analytics_Project.ipynb)
 ## 📌 Project Overview
 This project focuses on **marketing campaign performance analysis** for Y.Afisha, aiming to **optimize ad spend** and improve **customer acquisition strategies**.  
 The analysis evaluates user behavior, purchasing patterns, and the effectiveness of various marketing channels.
