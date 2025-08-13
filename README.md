@@ -5,6 +5,27 @@ https://colab.research.google.com/github/MirthaT/Marketing-Analytics-Project/blo
 This project focuses on **marketing campaign performance analysis** for Y.Afisha, aiming to **optimize ad spend** and improve **customer acquisition strategies**.  
 The analysis evaluates user behavior, purchasing patterns, and the effectiveness of various marketing channels.
 
+## Results (preview)
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">Cumulative LTV by Cohort</h4>
+      <p align="center">
+        <img src="assets/ltv_cohort_heatmap.png" alt="Cohort heatmap showing cumulative LTV growth by cohort age (months)" width="100%">
+      </p>
+      <p align="center"><em>LTV generally increases with cohort age; some cohorts grow faster than others, highlighting higher-quality acquisition periods.</em></p>
+    </td>
+    <td width="50%">
+      <h4 align="center">ROMI by Month and Source</h4>
+      <p align="center">
+        <img src="assets/romi_month_source_heatmap.png" alt="Heatmap of ROMI by month and marketing source" width="100%">
+      </p>
+      <p align="center"><em>Returns vary widely across sources and months; a few sources deliver outsized ROMI in specific months—useful for budget shifts.</em></p>
+    </td>
+  </tr>
+</table>
+
 ## 🗂 Dataset
 The dataset contains:
 - **Visits Log** – User sessions (UID, device, session start/end time, source ID).
