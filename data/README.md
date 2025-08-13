@@ -5,4 +5,4 @@ No proprietary or personal information is included.
 
 - Count: 3 datasets
 - Scope: marketing performance and cohort/ROMI analyses
-- Status: sources will be referenced in the main README later
+
